@@ -1,0 +1,27 @@
+#Project files
+node_modules
+.env
+package-lock.json
+yarn.lock
+toFrontend
+
+#IDE files
+.idea
+.vscode
+
+#System files
+.DS_Store
+
+#Remix files
+contracts/.deps
+contracts/artifacts
+
+#Hardhat files
+cache
+artifacts
+typechain
+.openzeppelin
+
+#Solidity-coverage files
+coverage.json
+coverage
